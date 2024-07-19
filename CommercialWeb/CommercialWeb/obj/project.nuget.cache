@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7QwANW3USlH6GvSPIgFVV7pT31hfok4/MN1j8e9QYtBATpgHtqy6Xyku8t68Ijbg8BlmvABo5cIZ49z6flT/aA==",
+  "dgSpecHash": "KwU1r51qMueEyWtuhTF30AOBdyydxSLTr8brQmm7RbU3Vg67Q5AxvQy2xUJpF+pDDMZg48i6wx1b2RFfRmhaOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Projects_student\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj",
+  "projectFilePath": "D:\\MVC(C#)\\Student-Project\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoang\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Hoang\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

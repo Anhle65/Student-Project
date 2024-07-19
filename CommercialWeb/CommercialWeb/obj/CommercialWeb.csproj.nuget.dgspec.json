@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hoang\\Desktop\\Projects_student\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj": {}
+    "D:\\MVC(C#)\\Student-Project\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hoang\\Desktop\\Projects_student\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj": {
+    "D:\\MVC(C#)\\Student-Project\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoang\\Desktop\\Projects_student\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj",
+        "projectUniqueName": "D:\\MVC(C#)\\Student-Project\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj",
         "projectName": "CommercialWeb",
-        "projectPath": "C:\\Users\\Hoang\\Desktop\\Projects_student\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj",
+        "projectPath": "D:\\MVC(C#)\\Student-Project\\CommercialWeb\\CommercialWeb\\CommercialWeb.csproj",
         "packagesPath": "C:\\Users\\Hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoang\\Desktop\\Projects_student\\CommercialWeb\\CommercialWeb\\obj\\",
+        "outputPath": "D:\\MVC(C#)\\Student-Project\\CommercialWeb\\CommercialWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

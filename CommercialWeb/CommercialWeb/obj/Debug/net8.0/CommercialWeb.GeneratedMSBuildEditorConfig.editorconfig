@@ -17,91 +17,91 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CommercialWeb
 build_property.RootNamespace = CommercialWeb
-build_property.ProjectDir = C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\CommercialWeb\
+build_property.ProjectDir = D:\MVC(C#)\Student-Project\CommercialWeb\CommercialWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\CommercialWeb
+build_property.MSBuildProjectDirectory = D:\MVC(C#)\Student-Project\CommercialWeb\CommercialWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Categories/Create.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Categories/Delete.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Categories/Details.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Categories/Edit.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Categories/Index.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Foods/Create.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Foods/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Foods/Delete.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Foods/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Foods/Details.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Foods/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Foods/Edit.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Foods/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Foods/Index.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Foods/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Genre/Edit.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Genre/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Genre/Index.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Genre/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Genre/UpSert.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Genre/UpSert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcVXBTZXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Home/Index.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Home/Privacy.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Shared/Error.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/_ViewImports.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/_ViewStart.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hoang/Desktop/Projects_student/CommercialWeb/CommercialWeb/Views/Shared/_Layout.cshtml]
+[D:/MVC(C\#)/Student-Project/CommercialWeb/CommercialWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-15f9iv4odn
