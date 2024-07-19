@@ -1,0 +1,32 @@
+﻿@model Ie<CommercialWeb.Models.Information>;
+@{
+    ViewData["Title"] = "Food Detail Page";
+}
+<h1>Food Information</h1>
+<hr>  </hr>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>BestBefore</th>
+            <th>Usage</th>
+            <th>Storage</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FoodId</td>
+                <td>@item.ProductType</td>
+                <td>@item.BestBefore</td>
+                <td>@item.Usage</td>
+                <td>@item.Storage</td>
+                <td><a class="btn btn-link" asp-controller="Genre" asp-action="UpSert" asp-route-object="@item">UpSert</a></td>
+                <td><a class="btn btn-link" asp-controller="Genre" asp-action="Edit" asp-route-type="@item.ProductType">Edit</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
