@@ -12,4 +12,5 @@ This project was built to explore ASP.NET and backend development concepts.
 - Object-oriented programming
 
 ## Status
-Initial learning project — currently revisiting concepts to expand into modern .NET and Azure-based development.
+Initial learning project (2024).  
+Recently revisiting .NET concepts to strengthen backend and cloud (Azure) development skills.
